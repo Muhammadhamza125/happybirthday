@@ -51,6 +51,11 @@ footer h2{
     font-size: 16px;
     color: #fff;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
+     text-align: center;
+      background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,01) 100%);
+    width:100%;
+    height:auto;
 }
 @Media (max-width: 767px){
     .birthday img{
